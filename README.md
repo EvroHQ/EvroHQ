@@ -1,7 +1,7 @@
 <h3 align="center">Hi There, I'm Chris 👋</h3>
 <h3 align="center">I'm a Husband, Father, Frontend & Backend Developper</h3>
 
-<div align="center">
+<div align="center" style="list-style-type: none">
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
