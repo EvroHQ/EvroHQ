@@ -1,9 +1,9 @@
-<h1 align="center">Hi There, I'm Chris 👋</h1>
-<h3 align="center">I'm a Husband, Father, Frontend & Backend Developper</h3>
+<h1 align="left">Hi There, I'm Chris 👋</h1>
+## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
-- ⚡ Fun fact **I'm also a music producer**
+- ⚡ Fun fact: **I'm also a music producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
