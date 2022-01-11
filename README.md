@@ -11,7 +11,7 @@
             src="https://cdn-icons-png.flaticon.com/512/61/61109.png"
             alt="christophekirkoussis" width="26" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png"
+            src="https://img.favpng.com/3/24/25/logo-facebook-icon-png-favpng-BnqhczwZwBxWMD8wfTQhAagus.jpg"
             alt="chrisbaxx" width="26" /></a>
 </p>
 
