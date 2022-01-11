@@ -1,4 +1,4 @@
-<h3 align="center">Hi There, I'm Chris 👋</h3>
+<h1 align="left">Hi There, I'm Chris 👋</h1>
 <h2 align="left">I'm a Husband, Father, Frontend & Backend Developper</h2>
 
 - 🌱 I’m currently learning **everything i can 🤣**
