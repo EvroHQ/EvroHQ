@@ -9,10 +9,10 @@
 <p align="left">
     <a href="https://linkedin.com/in/christophekirkoussis" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="christophekirkoussis" height="30" width="30" /></a>
+            alt="christophekirkoussis" width="26" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="chrisbaxx" height="30" width="30" /></a>
+            alt="chrisbaxx" width="26" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
