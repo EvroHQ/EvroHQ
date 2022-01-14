@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/christophekirkoussis" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
             alt="christophekirkoussis" width="26" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-            src="https://yoshimifutamura.com/wp-content/uploads/2017/06/ICONCRAZE-COM-Facebook-Icon-PNG-300x300.png"
+            src="https://cdn-icons-png.flaticon.com/512/124/124010.png"
             alt="chrisbaxx" width="26" /></a>
 </p>
 
