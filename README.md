@@ -11,7 +11,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
             alt="christophekirkoussis" width="26" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/512/124/124010.png"
+            src="https://cdn-icons-png.flaticon.com/512/145/145802.png"
             alt="chrisbaxx" width="26" /></a>
 </p>
 
