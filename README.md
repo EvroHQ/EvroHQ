@@ -12,7 +12,10 @@
             alt="christophekirkoussis" width="26" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
             src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png"
-            alt="chrisbaxx" width="26" /></a>
+            alt="chrisbaxx" width="26" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.upwork.com/freelancers/~016a48832a1f9401ef" target="blank"><img align="center"
+            src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png"
+            alt="christophek" width="26" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
