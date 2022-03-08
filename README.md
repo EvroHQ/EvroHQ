@@ -11,7 +11,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
                         alt="linkedin" width="26" /></a> &nbsp;&nbsp;&nbsp;
         <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-                        src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="facebook" width="26" /></a>
+                        src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="facebook" width="26" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.upwork.com/freelancers/~016a48832a1f9401ef" target="blank"><img align="center"
                         src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png" alt="upwork" width="26" /></a>
 </p>
