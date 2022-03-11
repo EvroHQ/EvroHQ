@@ -1,15 +1,10 @@
-<h1 align="center">Hi There, I'm Chris 👋</h1>
-<h2 align="center">I'm a Husband, Father, Frontend & Backend Developper</h2>
-
+<h1 align=center>Hi There, I'm Chris 👋</h1>
+<h2 align=center>I'm a Husband, Father, Frontend & Backend Developper</h2>
 <img align="right" width="270px" height="100%" src="https://images.unsplash.com/photo-1602345397613-0934a8812d23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80">
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
 - ⚡ Fun fact: **I'm also a music producer**
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -118,9 +113,12 @@
                         alt="Fig;q"
                         data-canonical-src="https://img.shields.io/badge/-figma-05122A?style=flat&amp;logo=figma"
                         style="max-width: 100%;"></a>
-        <br></p>        
+        <br></p> 
+<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
+        
 <hr>
 </hr>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -136,6 +134,7 @@ INI          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&layout=compact&theme=nightowl&langs_count=4">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&theme=nightowl&langs_count=4">
 
