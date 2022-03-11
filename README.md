@@ -1,5 +1,5 @@
 <h1 align="left">Hi There, I'm Chris 👋</h1>
-<h2 align="left">I'm a Husband, Father, Frontend & Backend Developper</h2>
+<h2 align="left">I'm a Husband, Father, Frontend & Backend Developper</h2> 
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
@@ -112,7 +112,7 @@
                         alt="Fig;q"
                         data-canonical-src="https://img.shields.io/badge/-figma-05122A?style=flat&amp;logo=figma"
                         style="max-width: 100%;"></a>
-        <br></p>
+        <br></p>        
 <hr>
 </hr>
 <!--START_SECTION:waka-->
@@ -132,3 +132,5 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&layout=compact&theme=nightowl&langs_count=4">
+<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
+
