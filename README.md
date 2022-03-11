@@ -130,6 +130,5 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-<hr>
-![EvroHQ GitHub stats](https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true)<br>
-![EvroHQ Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&layout=compact&theme=nightowl)
+<img src="https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&layout=compact&theme=nightowl">
