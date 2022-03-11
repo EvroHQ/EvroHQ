@@ -1,9 +1,16 @@
-<h1 align="left">Hi There, I'm Chris 👋</h1>
-<h2 align="left">I'm a Husband, Father, Frontend & Backend Developper</h2> 
+<h1 align="center">Hi There, I'm Chris 👋</h1>
+<h2 align="center">I'm a Husband, Father, Frontend & Backend Developper</h2>
+
+<img align="right" width="290px" height="auto" src="https://images.unsplash.com/photo-1602345397613-0934a8812d23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80">
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
 - ⚡ Fun fact: **I'm also a music producer**
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -105,9 +112,8 @@
                         src="https://camo.githubusercontent.com/4880e1c6ac08e0daae138a6440135643e26a04208b7e3eafcc9eef2c226cfd56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e44657369676e2d3035313232413f7374796c653d666c6174266c6f676f3d61646f62652d696e64657369676e"
                         alt="InDesign"
                         data-canonical-src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign"
-                        style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer"
-                href="https://camo.githubusercontent.com/3d436fb0ea5d62f1326b45802dd0d9fc0f495bed03b11ff97280a749b70a32fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6669676d612d3035313232413f7374796c653d666c6174266c6f676f3d6669676d61"><img
+                        style="max-width: 100%;"></a>&nbsp;
+        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d436fb0ea5d62f1326b45802dd0d9fc0f495bed03b11ff97280a749b70a32fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6669676d612d3035313232413f7374796c653d666c6174266c6f676f3d6669676d61"><img
                         src="https://camo.githubusercontent.com/3d436fb0ea5d62f1326b45802dd0d9fc0f495bed03b11ff97280a749b70a32fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6669676d612d3035313232413f7374796c653d666c6174266c6f676f3d6669676d61"
                         alt="Fig;q"
                         data-canonical-src="https://img.shields.io/badge/-figma-05122A?style=flat&amp;logo=figma"
@@ -132,5 +138,4 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&layout=compact&theme=nightowl&langs_count=4">
-<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
 
