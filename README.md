@@ -9,14 +9,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://linkedin.com/in/christophekirkoussis" target="blank"><img align="center"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
-                        alt="linkedin" width="26" /></a> &nbsp;&nbsp;&nbsp;
+                        src="https://img.shields.io/badge/-Linkedin-fff?logo=linkedin&style=for-the-badge&logoColor=blue"
+                        alt="linkedin" style="max-width: 100%;" /></a> &nbsp;&nbsp;
         <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-                        src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="facebook"
-                        width="26" /></a>&nbsp;&nbsp;&nbsp;
+                        src="https://img.shields.io/badge/-Facebook-fff?logo=facebook&style=for-the-badge" alt="facebook"
+                        style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://www.upwork.com/freelancers/~016a48832a1f9401ef" target="blank"><img align="center"
-                        src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png"
-                        alt="upwork" width="26" /></a>
+                        src="https://img.shields.io/badge/-Upwork-fff?logo=upwork&style=for-the-badge"
+                        alt="upwork" style="max-width: 100%;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,10 +26,10 @@
                 alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-05122A?logo=html5&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
-        href="https://img.shields.io/badge/-CSS3-05122A?logo=css3&style=for-the-badge"><img
-                src="https://img.shields.io/badge/-CSS3-05122A?logo=css3&style=for-the-badge"
+        href="https://img.shields.io/badge/-CSS3-05122A?logo=css3&style=for-the-badge&logoColor=blue"><img
+                src="https://img.shields.io/badge/-CSS3-05122A?logo=css3&style=for-the-badge&logoColor=blue"
                 alt="CSS3"
-                data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6"
+                data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6&logoColor=blue"
                 style="max-width: 100%;"></a>&nbsp;
                 <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-SCSS-05122A?logo=sass&style=for-the-badge"><img
@@ -89,10 +89,10 @@
                         </path>
                 </svg></a>Softwares:</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer"
-                href="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge"><img
-                        src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge"
+                href="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge&logoColor=blue"><img
+                        src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge&logoColor=blue"
                         alt="Visual Studio Code"
-                        data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge"
+                        data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge&logoColor=blue"
                         style="max-width: 100%;"></a>&nbsp;
         <a target="_blank" rel="noopener noreferrer"
                 href="https://img.shields.io/badge/-Illustrator-05122A?logo=adobeillustrator&style=for-the-badge"><img
