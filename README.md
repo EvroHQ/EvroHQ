@@ -9,13 +9,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://linkedin.com/in/christophekirkoussis" target="blank"><img align="center"
-                        src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&style=for-the-badge&logoColor=white"
+                        src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&style=for-the-badge&logoColor=white&logoWidth=20"
                         alt="linkedin" style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://fb.com/chrisbaxx" target="blank"><img align="center"
-                        src="https://img.shields.io/badge/-facebook-4267B2?logo=facebook&style=for-the-badge&logoColor=white" alt="facebook"
+                        src="https://img.shields.io/badge/-facebook-4267B2?logo=facebook&style=for-the-badge&logoColor=white&logoWidth=20" alt="facebook"
                         style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://www.upwork.com/freelancers/~016a48832a1f9401ef" target="blank"><img align="center"
-                        src="https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=494949"
+                        src="https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=494949&logoWidth=20"
                         alt="upwork" style="max-width: 100%;" /></a>
 </p>
 
