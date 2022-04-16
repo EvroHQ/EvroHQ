@@ -121,13 +121,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-Total Time: 45 mins
+Total Time: 44 mins
 
-CSS          18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.76 %
-JavaScript   15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.13 %
-HTML         12 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.10 %
+CSS          18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.59 %
+JavaScript   15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.82 %
+HTML         11 mins         ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.59 %
 ```
 
 <!--END_SECTION:waka-->
