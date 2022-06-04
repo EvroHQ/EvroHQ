@@ -121,7 +121,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 May 2022 - To: 03 June 2022
+
+Total Time: 10 mins
+
+JSON         10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
 
 <!--END_SECTION:waka-->
