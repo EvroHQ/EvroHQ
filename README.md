@@ -121,13 +121,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 30 July 2022
+From: 27 July 2022 - To: 03 August 2022
 
-Total Time: 9 hrs 43 mins
+Total Time: 4 hrs 48 mins
 
-SCSS         4 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.92 %
-HTML         2 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.69 %
-JavaScript   1 hr 58 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.38 %
+SCSS         2 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.18 %
+HTML         1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.72 %
+JavaScript   37 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.10 %
 ```
 
 <!--END_SECTION:waka-->
