@@ -121,7 +121,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 December 2022 - To: 29 December 2022
+
+Total Time: 24 mins
+
+HTML   17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.09 %
+CSS    7 mins          ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.91 %
 ```
 
 <!--END_SECTION:waka-->
