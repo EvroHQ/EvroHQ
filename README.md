@@ -10,16 +10,16 @@
 <p align="left">
         <a href="https://linkedin.com/in/christophekirkoussis" target="_blank"><img align="center"
                         src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&style=for-the-badge&logoColor=white&logoWidth=20"
-                        alt="linkedin" style="max-width: 100%;" /></a>&nbsp;&nbsp;
+                        alt="linkedin" target="_blank" style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://fb.com/chrisbaxx" target="_blank"><img align="center"
-                        src="https://img.shields.io/badge/-facebook-4267B2?logo=facebook&style=for-the-badge&logoColor=white&logoWidth=20" alt="facebook"
-                        style="max-width: 100%;" /></a>&nbsp;&nbsp;
+                        src="https://img.shields.io/badge/-facebook-4267B2?logo=facebook&style=for-the-badge&logoColor=white&logoWidth=20" alt="facebook" 
+                        target="_blank" style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://www.upwork.com/freelancers/~016a48832a1f9401ef" target="_blank"><img align="center"
                         src="https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=494949&logoWidth=20"
-                        alt="upwork" style="max-width: 100%;" /></a>&nbsp;&nbsp;
+                        alt="upwork" target="_blank" style="max-width: 100%;" /></a>&nbsp;&nbsp;
         <a href="https://www.fiverr.com/evrohq/be-your-front-end-web-developer-using-html-sass-javascript" target="_blank"><img align="center"
                         src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&logoWidth=20"
-                        alt="upwork" style="max-width: 100%;" /></a>
+                        alt="upwork" target="_blank" style="max-width: 100%;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
