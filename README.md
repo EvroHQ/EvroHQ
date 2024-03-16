@@ -40,17 +40,23 @@
                 data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"><img
+                src="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"
+                alt="ReactJS"
+                data-canonical-src="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"
+                style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"
                 alt="Node.js"
                 data-canonical-src="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"
-                style="max-width: 100%;"></a>&nbsp;
+                style="max-width: 100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-BootStrap-05122A?logo=bootstrap&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-BootStrap-05122A?logo=bootstrap&style=for-the-badge"
                 alt="Bootstrap"
                 data-canonical-src="https://img.shields.io/badge/-BootStrap-05122A?logo=bootstrap&style=for-the-badge"
-                style="max-width: 100%;"></a><br>
+                style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-Git-05122A?logo=git&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-Git-05122A?logo=git&style=for-the-badge"
