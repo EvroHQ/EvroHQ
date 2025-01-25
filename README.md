@@ -28,10 +28,16 @@
                 alt="CSS3"
                 data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6&logoColor=blue"
                 style="max-width: 100%;"></a>&nbsp;
-                <a target="_blank" rel="noopener noreferrer"
+<a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-SCSS-05122A?logo=sass&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-SCSS-05122A?logo=sass&style=for-the-badge"
                 alt="SCSS" data-canonical-src="https://img.shields.io/badge/-SCSS-05122A?logo=sass&style=for-the-badge"
+                style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue"><img
+                src="https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue"
+                alt="CSS3"
+                data-canonical-src="https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&style=for-the-badge"><img
@@ -40,17 +46,17 @@
                 data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
-        href="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"><img
-                src="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"
+        href="https://img.shields.io/badge/-REACTJS-05122A?logo=react&style=for-the-badge"><img
+                src="https://img.shields.io/badge/-REACTJS-05122A?logo=react&style=for-the-badge"
                 alt="ReactJS"
-                data-canonical-src="https://img.shields.io/badge/-REACT_JS-05122A?logo=react&style=for-the-badge"
+                data-canonical-src="https://img.shields.io/badge/-REACTJS-05122A?logo=react&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
-        href="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"><img
-                src="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"
-                alt="Node.js"
-                data-canonical-src="https://img.shields.io/badge/-NodeJS-05122A?logo=node.js&style=for-the-badge"
-                style="max-width: 100%;"></a><br>
+        href="https://img.shields.io/badge/NextJS-05122A?style=for-the-badge&logo=next.js&logoColor=white"><img
+                src="https://img.shields.io/badge/NextJS-05122A?style=for-the-badge&logo=next.js&logoColor=white"
+                alt="NextJS"
+                data-canonical-src="https://img.shields.io/badge/NextJS-05122A?style=for-the-badge&logo=next.js&logoColor=white"
+                style="max-width: 100%;"></a>&nbsp;<br>
 <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-BootStrap-05122A?logo=bootstrap&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-BootStrap-05122A?logo=bootstrap&style=for-the-badge"
@@ -79,9 +85,20 @@
                 data-canonical-src="https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/-Firebase-05122A?logo=firebase&style=for-the-badge"><img
+                src="https://img.shields.io/badge/-Firebase-05122A?logo=firebase&style=for-the-badge"
+                alt="MongoDB"
+                data-canonical-src="https://img.shields.io/badge/-Firebase-05122A?logo=firebase&style=for-the-badge"
+                style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-Heroku-05122A?logo=heroku&style=for-the-badge"><img
                 src="https://img.shields.io/badge/-Heroku-05122A?logo=heroku&style=for-the-badge"
                 alt="Heroku" data-canonical-src="https://img.shields.io/badge/-Heroku-05122A?logo=heroku&style=for-the-badge"
+                style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/-Vercel-05122A?logo=vercel&style=for-the-badge"><img
+                src="https://img.shields.io/badge/-vercel-05122A?logo=vercel&style=for-the-badge"
+                alt="Heroku" data-canonical-src="https://img.shields.io/badge/-Vercel-05122A?logo=vercel&style=for-the-badge"
                 style="max-width: 100%;"></a>&nbsp;
 
 <h3 dir="auto"><a id="user-content-softwares" class="anchor" aria-hidden="true" href="#softwares"><svg
@@ -137,6 +154,3 @@ Bash         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=evrohq&theme=nightowl&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrohq&theme=nightowl&langs_count=4">
-
