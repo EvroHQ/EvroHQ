@@ -1,5 +1,5 @@
 <h1 align=center>Hi There, I'm Chris 👋</h1>
-<h2 align=center>I'm a Husband, Father, and Frontend Developer</h2>
+<h2 align=center>I'm a Husband, Father, and Full Stack Developer</h2>
 
 - 🌱 I’m currently learning **everything i can 🤣**
 
