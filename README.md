@@ -11,9 +11,6 @@
         <a href="https://linkedin.com/in/christophekirkoussis" target="_blank"><img align="center"
                         src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&style=for-the-badge&logoColor=white&logoWidth=20"
                         alt="linkedin" target="_blank" style="max-width: 100%;" /></a>&nbsp;&nbsp;
-        <a href="https://fb.com/chrisbaxx" target="_blank"><img align="center"
-                        src="https://img.shields.io/badge/-facebook-4267B2?logo=facebook&style=for-the-badge&logoColor=white&logoWidth=20" alt="facebook" 
-                        target="_blank" style="max-width: 100%;" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -115,6 +112,12 @@
                         data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visualstudiocode&style=for-the-badge&logoColor=blue"
                         style="max-width: 100%;"></a>&nbsp;
         <a target="_blank" rel="noopener noreferrer"
+                href="https://img.shields.io/badge/-Cursor-05122A?logo=cursor&style=for-the-badge&logoColor=blue"><img
+                        src="https://img.shields.io/badge/-Cursor-05122A?logo=cursor-05122A?logo=cursor&style=for-the-badge&logoColor=blue"
+                        alt="Visual Studio Code"
+                        data-canonical-src="https://img.shields.io/badge/-Cursor-05122A?logo=cursor-05122A?logo=cursor&style=for-the-badge&logoColor=blue"
+                        style="max-width: 100%;"></a>&nbsp;
+        <a target="_blank" rel="noopener noreferrer"
                 href="https://img.shields.io/badge/-Illustrator-05122A?logo=adobeillustrator&style=for-the-badge"><img
                         src="https://img.shields.io/badge/-Illustrator-05122A?logo=adobeillustrator&style=for-the-badge"
                         alt="Illustrator"
@@ -133,8 +136,6 @@
                         data-canonical-src="https://img.shields.io/badge/-Figma-05122A?logo=figma&style=for-the-badge"
                         style="max-width: 100%;"></a>
         <br></p> 
-<img src="https://komarev.com/ghpvc/?username=evrohq&style=for-the-badge&color=blueviolet">
-        
 <hr>
 </hr>
 
