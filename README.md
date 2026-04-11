@@ -135,19 +135,4 @@
                         alt="Figma"
                         data-canonical-src="https://img.shields.io/badge/-Figma-05122A?logo=figma&style=for-the-badge"
                         style="max-width: 100%;"></a>
-        <br></p> 
-<hr>
-</hr>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 April 2026 - To: 09 April 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<hr>
+        <br></p>
